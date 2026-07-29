@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there 👋, I'm Saif Addeen
 
-<!--
-**sief50/sief50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Third-year Computer Science Student
 
-Here are some ideas to get you started:
+> *Code with purpose. Learn without limits. Build for the future.*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 💻 Interested in Web Development
+- 🤖 Exploring Artificial Intelligence
+- 🌐 Passionate about Modern Technologies
+- 📚 Continuously learning and building real-world projects
+
+## 🛠️ Languages & Tools
+- C++
+- Java
+- Git & GitHub
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://linkedin.com/in/saifaddeen
