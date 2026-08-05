@@ -13,6 +13,7 @@
 ## 🛠️ Languages & Tools
 - C++
 - Java
+- HTML
 - Git & GitHub
 
 ## 📫 Connect with Me
