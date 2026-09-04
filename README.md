@@ -14,6 +14,7 @@
 - C++
 - Java
 - HTML
+- CSS
 - Git & GitHub
 
 ## 📫 Connect with Me
