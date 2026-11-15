@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Saif Addeen
+# Hi there 👋, I'm Saif 
 
 ### 🎓 Third-year Computer Science Student
 
